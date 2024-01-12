@@ -1,0 +1,9 @@
+@inproceedings{REPO005,
+    author = "Lee, Yejin and Choi, Hyunji and Min, Sunhong and Lee, Hyunseung and Beak, Sangwon and Jeong, Dawoon and Lee, Jae W. and Ham, Tae Jun",
+    booktitle = "2022 IEEE International Symposium on High-Performance Computer Architecture (HPCA)",
+    number = "",
+    pages = "169-183",
+    title = "{ANNA: Specialized Architecture for Approximate Nearest Neighbor Search}",
+    volume = "",
+    year = "2022"
+}
