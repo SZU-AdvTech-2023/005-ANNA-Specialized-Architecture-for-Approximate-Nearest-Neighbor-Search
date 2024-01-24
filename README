@@ -1,0 +1,20 @@
+使用 cmake 配置编译环境，例如
+
+```sh
+cmake -DCMAKE_BUILD_TYPE=Release .
+```
+
+使用 make 进行构建
+
+```c++
+make
+```
+
+运行模拟程序
+
+```
+./multiannatest deep1B
+```
+
+仿真数据可以在 `result` 中查看，运行的详细日志可以在 `output_*` 中查看
+
